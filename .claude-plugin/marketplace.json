@@ -1,0 +1,16 @@
+{
+  "name": "mattpocock-skills",
+  "description": "Marketplace for Matt Pocock's Claude Code skills",
+  "owner": {
+    "name": "Matt Pocock",
+    "url": "https://github.com/mattpocock"
+  },
+  "plugins": [
+    {
+      "name": "mattpocock-engineering-skills",
+      "description": "Engineering workflow skills: TDD, debugging, code review, architecture, and implementation patterns",
+      "source": "./skills/engineering",
+      "category": "engineering"
+    }
+  ]
+}
