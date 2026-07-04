@@ -7,9 +7,9 @@
   },
   "plugins": [
     {
-      "name": "mattpocock-engineering-skills",
+      "name": "mattpocock-skills",
       "description": "Engineering workflow skills: TDD, debugging, code review, architecture, and implementation patterns",
-      "source": "./skills/engineering",
+      "source": "./",
       "category": "engineering",
       "version": "2.0.0"
     }
