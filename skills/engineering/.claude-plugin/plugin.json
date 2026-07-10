@@ -4,18 +4,19 @@
   "version": "2.0.2",
   "skills": [
     "./ask-matt",
-    "./codebase-design",
     "./diagnosing-bugs",
-    "./domain-modeling",
     "./grill-with-docs",
-    "./implement",
+    "./triage",
     "./improve-codebase-architecture",
-    "./prototype",
-    "./research",
     "./setup-matt-pocock-skills",
     "./tdd",
-    "./to-issues",
-    "./to-prd",
-    "./triage"
+    "./to-spec",
+    "./to-tickets",
+    "./wayfinder",
+    "./implement",
+    "./prototype",
+    "./research",
+    "./domain-modeling",
+    "./codebase-design"
   ]
 }
