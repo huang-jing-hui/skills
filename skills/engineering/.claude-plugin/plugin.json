@@ -1,7 +1,7 @@
 {
   "name": "mattpocock-engineering-skills",
   "description": "Engineering workflow skills: TDD, debugging, code review, architecture, and implementation patterns",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "skills": [
     "./ask-matt",
     "./diagnosing-bugs",
@@ -9,6 +9,7 @@
     "./triage",
     "./improve-codebase-architecture",
     "./setup-matt-pocock-skills",
+    "./resolving-merge-conflicts",
     "./tdd",
     "./to-spec",
     "./to-tickets",
