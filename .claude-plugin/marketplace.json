@@ -11,7 +11,7 @@
       "description": "Engineering workflow skills: TDD, debugging, code review, architecture, and implementation patterns",
       "source": "./skills/engineering",
       "category": "engineering",
-      "version": "2.0.3"
+      "version": "2.0.4"
     },
     {
       "name": "mattpocock-productivity-skills",
