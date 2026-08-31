@@ -30,6 +30,7 @@
     "./skills/engineering/prototype",
     "./skills/engineering/research",
     "./skills/engineering/wayfinder",
-    "./skills/productivity/grilling"
+    "./skills/productivity/grilling",
+    "./skills/productivity/teach"
   ]
 }
